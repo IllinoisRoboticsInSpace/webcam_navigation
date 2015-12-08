@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "WebCamToWindow", "WebCamToWindow\WebCamToWindow.vcxproj", "{64DF79E7-7A42-44DC-8230-04561B72EB6B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release_NONMP|Win32 = Release_NONMP|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64DF79E7-7A42-44DC-8230-04561B72EB6B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{64DF79E7-7A42-44DC-8230-04561B72EB6B}.Debug|Win32.Build.0 = Debug|Win32
+		{64DF79E7-7A42-44DC-8230-04561B72EB6B}.Release_NONMP|Win32.ActiveCfg = Release_NONMP|Win32
+		{64DF79E7-7A42-44DC-8230-04561B72EB6B}.Release_NONMP|Win32.Build.0 = Release_NONMP|Win32
+		{64DF79E7-7A42-44DC-8230-04561B72EB6B}.Release|Win32.ActiveCfg = Release|Win32
+		{64DF79E7-7A42-44DC-8230-04561B72EB6B}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
